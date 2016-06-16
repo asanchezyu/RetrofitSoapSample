@@ -11,7 +11,7 @@ main screen.
 - [WebServiceX](http://www.webservicex.com/New/Home/ServiceDetail/42)
 
 ##More Information 
-Visit [My Blog](www.blog.asanchez-porfolio.es)
+Visit [My Blog](http://blog.asanchez-portfolio.es/en)
 
 [![linkedin](art/linkedin_icon.png)](https://es.linkedin.com/in/alejandro-sanchez-yuste-b3b17427)      [![twitter](art/twitter_icon.png)](https://twitter.com/asanchezyu)   [![googleplus]
      (art/google_plus_icon.png)](https://plus.google.com/u/0/117864192629726404968)
