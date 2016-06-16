@@ -1,0 +1,29 @@
+<!--
+  ~ Copyright 2016. Alejandro Sánchez
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  ~
+  -->
+
+<resources>
+    <string name="app_name">RetrofitSoap</string>
+    <string name="make_request">Realizar petición</string>
+    <string name="enter_city_name">Introduzca una ciudad</string>
+    <string name="request_error">ERROR haciendo la peticion</string>
+    <string name="dialog_title">Haciendo petición</string>
+    <string name="dialog_message">Haciendo petición. Por favor, espera.</string>
+    <string name="city_name_hint">City Name</string>
+    <string name="item_state">(%s)</string>
+    <string name="item_area">Area: %s</string>
+    <string name="item_zip">Zip Code: %s</string>
+</resources>
